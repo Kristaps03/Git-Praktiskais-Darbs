@@ -1,1 +1,3 @@
 teksts
+
+Nevarēju izdomāt kā command line github darbojas
